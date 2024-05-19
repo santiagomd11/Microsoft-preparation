@@ -33,8 +33,8 @@
 
 ### Medium
 
-1. [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
-2. [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
+1. [X] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+2. [X] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 3. [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
 4. [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 5. [ ] [3Sum](https://leetcode.com/problems/3sum)
