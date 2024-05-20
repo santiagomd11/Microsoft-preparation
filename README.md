@@ -35,7 +35,7 @@
 
 1. [X] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 2. [X] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-3. [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
+3. [x] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)
 4. [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
 5. [ ] [3Sum](https://leetcode.com/problems/3sum)
 6. [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
