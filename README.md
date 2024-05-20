@@ -97,3 +97,128 @@
 6. [ ] [Tag Validator](https://leetcode.com/problems/tag-validator)
 7. [ ] [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem)
 8. [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+
+## Useful links for DSA
+
+### 1. Arrays and Strings
+
+#### Key Concepts:
+- Array manipulation
+- Two pointers technique
+- Sliding window technique
+- String manipulation
+
+#### Resources:
+- [Arrays on GeeksforGeeks](https://www.geeksforgeeks.org/array-data-structure/)
+- [String Manipulation on GeeksforGeeks](https://www.geeksforgeeks.org/string-data-structure/)
+- [Sliding Window Technique on LeetCode](https://leetcode.com/tag/sliding-window/)
+- [Arrays and Strings on LeetCode Explore](https://leetcode.com/explore/learn/card/array-and-string/)
+
+### 2. Linked Lists
+
+#### Key Concepts:
+- Singly linked list
+- Doubly linked list
+- Fast and slow pointers
+
+#### Resources:
+- [Linked List on GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [Linked List on LeetCode Explore](https://leetcode.com/explore/learn/card/linked-list/)
+
+### 3. Stacks and Queues
+
+#### Key Concepts:
+- Stack operations
+- Queue operations
+- Monotonic stacks/queues
+
+#### Resources:
+- [Stack on GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
+- [Queue on GeeksforGeeks](https://www.geeksforgeeks.org/queue-data-structure/)
+- [Stacks and Queues on LeetCode Explore](https://leetcode.com/explore/learn/card/queue-stack/)
+
+### 4. Trees and Graphs
+
+#### Key Concepts:
+- Binary trees
+- Binary search trees
+- Tree traversals (inorder, preorder, postorder)
+- Graph traversal (BFS, DFS)
+- Topological sort
+
+#### Resources:
+- [Tree on GeeksforGeeks](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+- [Graph on GeeksforGeeks](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+- [Trees on LeetCode Explore](https://leetcode.com/explore/learn/card/data-structure-tree/)
+
+### 5. Dynamic Programming
+
+#### Key Concepts:
+- Memoization
+- Tabulation
+- Common DP problems (knapsack, longest increasing subsequence, etc.)
+
+#### Resources:
+- [Dynamic Programming on GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+- [Dynamic Programming on LeetCode Explore](https://leetcode.com/explore/learn/card/dynamic-programming/)
+
+### 6. Sorting and Searching
+
+#### Key Concepts:
+- Quick sort
+- Merge sort
+- Binary search
+- Two-pointer technique
+
+#### Resources:
+- [Sorting on GeeksforGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
+- [Binary Search on GeeksforGeeks](https://www.geeksforgeeks.org/binary-search/)
+- [Sorting and Searching on LeetCode Explore](https://leetcode.com/explore/learn/card/binary-search/)
+
+### 7. Greedy Algorithms
+
+#### Key Concepts:
+- Greedy choice property
+- Common greedy problems (activity selection, Huffman coding)
+
+#### Resources:
+- [Greedy Algorithms on GeeksforGeeks](https://www.geeksforgeeks.org/greedy-algorithms/)
+- [Greedy on LeetCode Explore](https://leetcode.com/explore/learn/card/greedy/)
+
+### 8. Backtracking
+
+#### Key Concepts:
+- Backtracking algorithms
+- Common backtracking problems (N-Queens, Sudoku)
+
+#### Resources:
+- [Backtracking on GeeksforGeeks](https://www.geeksforgeeks.org/backtracking-algorithms/)
+- [Backtracking on LeetCode Explore](https://leetcode.com/explore/learn/card/recursion-ii/)
+
+### 9. Bit Manipulation
+
+#### Key Concepts:
+- Bitwise operations
+- Common bit manipulation problems (single number, subsets)
+
+#### Resources:
+- [Bit Manipulation on GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
+- [Bit Manipulation on LeetCode Explore](https://leetcode.com/explore/learn/card/bit-manipulation/)
+
+### 10. Math
+
+#### Key Concepts:
+- Prime numbers
+- Greatest common divisor (GCD)
+- Combinatorics
+
+#### Resources:
+- [Math on GeeksforGeeks](https://www.geeksforgeeks.org/mathematical-algorithms/)
+- [Math on LeetCode Explore](https://leetcode.com/explore/learn/card/basic-math/)
+
+
+
+## Useful links for System design
+- System design: https://github.com/donnemartin/system-design-primer
+- SOLID: https://github.com/zedr/clean-code-python
+- Design patterns: https://github.com/faif/python-patterns?tab=readme-ov-file
