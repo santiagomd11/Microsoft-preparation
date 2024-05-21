@@ -13,7 +13,7 @@
 
 #### Medium
 1. [X] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
-2. [ ] [3Sum](https://leetcode.com/problems/3sum)
+2. [X] [3Sum](https://leetcode.com/problems/3sum)
 3. [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 4. [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)
 5. [ ] [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii)
