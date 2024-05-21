@@ -33,6 +33,7 @@
 3. [ ] [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system)
 4. [ ] [Tag Validator](https://leetcode.com/problems/tag-validator)
 
+---
 ### Linked Lists
 
 #### Easy
