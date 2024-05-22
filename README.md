@@ -37,7 +37,7 @@
 ### Linked Lists
 
 #### Easy
-1. [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+1. [X] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 2. [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 3. [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)
 4. [ ] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)
