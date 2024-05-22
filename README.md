@@ -53,7 +53,7 @@
 ### Trees and Graphs
 
 #### Easy
-1. [ ] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+1. [x] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 2. [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 3. [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 4. [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
